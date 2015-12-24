@@ -1,5 +1,4 @@
-i
-inew line 
-inew line 
-inew line 
+just like it .inew line 
+inew linejust like it . 
+inew space line linejust like it . 
 inew line sfei
