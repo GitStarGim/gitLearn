@@ -8,3 +8,4 @@ inew line sfei
 天生我才必有用，千金散尽还复来。
 bug appear
 BUG fixed
+fix bug success
