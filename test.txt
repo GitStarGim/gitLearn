@@ -6,3 +6,4 @@ inew line
 inew  let's go  line 
 inew line sfei
 天生我才必有用，千金散尽还复来。
+fix bug success
