@@ -1,4 +1,0 @@
-branch1:wq
-haha, hello
- I want to watch moive
-git config --global alias.st status
